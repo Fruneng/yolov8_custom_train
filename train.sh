@@ -1,0 +1,1 @@
+yolo task=detect mode=train model=yolov8n.pt imgsz=640 data=pothole_v8.yaml epochs=10 batch=8 name=yolov8n_custom
