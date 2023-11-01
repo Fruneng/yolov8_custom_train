@@ -1,5 +1,10 @@
 # yolov8_custom_train
 
+## install yolo
+```
+pip install ultralytics
+```
+
 ## train
 
 ```
